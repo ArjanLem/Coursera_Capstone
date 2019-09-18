@@ -1,0 +1,385 @@
+,Code,Station,Postcode,Country,Lon,Lat
+0,NLAAC,Amsterdam Sloterdijk,1043,Nederland,4.838111, 52.389025
+1,NLAAF,Amsterdam Lelylaan,1062,Nederland,4.833913, 52.357886
+2,NLABK,Amsterdam Amstel,1097,Nederland,4.917593, 52.346443
+3,NLACD,Abcoude,1391,Nederland,4.976994, 52.278673
+4,NLADR,Almelo de Riet,7606,Nederland,6.6664, 52.342218
+5,NLAHM,Arnhem Centraal,6811,Nederland,5.901004, 51.98478
+6,NLAHO,Amsterdam Holendrecht,1106,Nederland,4.960031, 52.298108
+7,NLAHP,Arnhem Presikhaaf,6824,Nederland,5.943317, 51.98789
+8,NLAHV,Arnhem Velperpoort,6824,Nederland,5.919837, 51.985175
+9,NLAHZ,Arnhem Zuid,6843,Nederland,5.851923, 51.954837
+10,NLAKL,Arkel,4241,Nederland,4.992662, 51.871965
+11,NLAKM,Akkrum,8491,Nederland,5.843365, 53.047134
+12,NLALP,Almere Parkwijk,1318,Nederland,5.244945, 52.376862
+13,NLAMB,Almere Buiten,1334,Nederland,5.277962, 52.394175
+14,NLAMC,Almere Centrum,1313,Nederland,5.218768, 52.375244
+15,NLAMF,Amersfoort,3818,Nederland,5.373239, 52.153642
+16,NLAML,Almelo,7604,Nederland,6.654813, 52.357284
+17,NLAMM,Almere Muziekwijk,1323,Nederland,5.190596, 52.36772
+18,NLAMN,Alkmaar Noord,1824,Nederland,4.763923, 52.64377
+19,NLAMO,Almere Oostvaarders,1335,Nederland,5.30021, 52.403219
+20,NLAMP,Amsterdam Muiderpoort,1093,Nederland,4.931365, 52.360736
+21,NLAMR,Alkmaar,1815,Nederland,4.74011, 52.637792
+22,NLAMS,Amersfoort Schothorst,3813,Nederland,5.403838, 52.174875
+23,NLAMV,Amersfoort Vathorst,3829,Nederland,5.433314, 52.192287
+24,NLANM,Arnemuiden,4341,Nederland,3.669001, 51.501628
+25,NLANP,Anna Paulowna,1761,Nederland,4.811215, 52.867601
+26,NLAPD,Apeldoorn,7311,Nederland,5.967489, 52.209429
+27,NLAPG,Appingedam,9901,Nederland,6.862374, 53.325818
+28,NLAPM,Apeldoorn De Maten,7325,Nederland,6.000479, 52.205357
+29,NLAPO,Apeldoorn Osseveld,7325,Nederland,6.006061, 52.215713
+30,NLAPR,Alphen a/d Rijn,2405,Nederland,4.657688, 52.124202
+31,NLASB,Amsterdam Bijlmer ArenA,1101,Nederland,4.947141, 52.312221
+32,NLASC,Amsterdam Centraal,1012,Nederland,4.899426, 52.37919
+33,NLASN,Assen,9404,Nederland,6.571141, 52.991994
+34,NLASP,Amsterdam Sciencepark,1098,Nederland,4.949253, 52.353167
+35,NLASZ,Amsterdam Zuid,1082,Nederland,4.871946, 52.338865
+36,NLATN,Aalten,7122,Nederland,6.57853, 51.921343
+37,NLBAN,Baarn,3743,Nederland,5.281252, 52.208117
+38,NLBDA,Breda,4811,Nederland,4.778566, 51.595214
+39,NLBDE,Bunde (NL),6241,Nederland,5.736646, 50.896824
+40,NLBDG,Bodegraven,2411,Nederland,4.746196, 52.081486
+41,NLBDM,Bedum,9781,Nederland,6.59205, 53.306724
+42,NLBDP,Breda Prinsenbeek,4822,Nederland,4.72135, 51.605714
+43,NLBED,Beesd,4153,Nederland,5.195279, 51.899427
+44,NLBEL,Beek-Elsloo,6191,Nederland,5.786302, 50.947299
+45,NLBET,Best,5683,Nederland,5.388988, 51.509799
+46,NLBGZ,Bergen op Zoom,4611,Nederland,4.296088, 51.494445
+47,NLBHV,Bilthoven,3722,Nederland,5.204187, 52.130135
+48,NLBKL,Breukelen,3621,Nederland,4.990433, 52.170434
+49,NLBKP,Boskoop,2771,Nederland,4.646676, 52.077548
+50,NLBKS,Boskoop Snijdelwijk,2771,Nederland,4.64628, 52.06764
+51,NLBLN,Beilen,9411,Nederland,6.521278, 52.855106
+52,NLBLO,Baflo,9953,Nederland,6.518986, 53.361451
+53,NLBMD,Bloemendaal,2024,Nederland,4.627574, 52.404324
+54,NLBMN,Brummen,6971,Nederland,6.14676, 52.090421
+55,NLBMR,Boxmeer,5831,Nederland,5.939181, 51.644439
+56,NLBNC,Barneveld Centrum,3771,Nederland,5.590229, 52.139862
+57,NLBNE,Borne (NL),7622,Nederland,6.748417, 52.298719
+58,NLBNK,Bunnik,3981,Nederland,5.193787, 52.063157
+59,NLBNN,Barneveld Noord,3771,Nederland,5.597852, 52.161265
+60,NLBRD,Barendrecht,2991,Nederland,4.552856, 51.854553
+61,NLBRK,Blerick,5922,Nederland,6.155354, 51.372435
+62,NLBSZ,Bussum Zuid,1406,Nederland,5.162702, 52.266214
+63,NLBTL,Boxtel,5281,Nederland,5.318917, 51.584733
+64,NLBTP,Buitenpost,9285,Nederland,6.144648, 53.256367
+65,NLBVF,Bovenkarspel Flora,1611,Nederland,5.25352, 52.696078
+66,NLBVG,Bovenkarspel-Grootebroek,1611,Nederland,5.236468, 52.695062
+67,NLBVH,Boven-Hardinxveld,3371,Nederland,4.878221, 51.832332
+68,NLBVW,Beverwijk,1941,Nederland,4.656286, 52.478324
+69,NLCLB,Culemborg,4103,Nederland,5.226813, 51.946908
+70,NLCSV,Capelle Schollevaar,2907,Nederland,4.584174, 51.954082
+71,NLCTC,Castricum,1901,Nederland,4.658983, 52.545446
+72,NLCUK,Cuijk,5431,Nederland,5.874064, 51.726996
+73,NLCVD,Coevorden,7741,Nederland,6.735743, 52.663393
+74,NLCVM,Chevremont,6463,Nederland,6.059619, 50.875897
+75,NLDBZ,Driebergen-Zeist,3709,Nederland,5.259309, 52.065242
+76,NLDDD,Den Dolder,3734,Nederland,5.242562, 52.140374
+77,NLDDM,Didam,6942,Nederland,6.132252, 51.933236
+78,NLDDN,Delden,7491,Nederland,6.715957, 52.260191
+79,NLDDS,Dordrecht Stadspolders,3315,Nederland,4.716855, 51.801858
+80,NLDDT,Dordrecht,3311,Nederland,4.667765, 51.807324
+81,NLDDZ,Dordrecht Zuid,3318,Nederland,4.671388, 51.790019
+82,NLDET,Delft,2613,Nederland,4.3569, 52.005752
+83,NLDEZ,Delft Zuid,2627,Nederland,4.365098, 51.990308
+84,NLDHC,Den Haag Centraal,2595,Nederland,4.32524, 52.080317
+85,NLDHD,Den Helder,1782,Nederland,4.760768, 52.956406
+86,NLDHH,Den Haag HS,2515,Nederland,4.322669, 52.069584
+87,NLDHL,Den Haag Laan v. NOI,2595,Nederland,4.343443, 52.079059
+88,NLDHM,Den Haag Mariahoeve,2272,Nederland,4.368973, 52.090529
+89,NLDHS,Driehuis,2071,Nederland,4.638865, 52.442879
+90,NLDHW,Den Haag Moerwijk,Zuid,Nederland,4.308547, 52.053862
+91,NLDHY,Den Haag Ypenburg,2496,Nederland,4.391338, 52.055606
+92,NLDHZ,Den Helder Zuid,1785,Nederland,4.764345, 52.932503
+93,NLDLN,Dalen,7751,Nederland,6.75818, 52.694217
+94,NLDLV,Daarlerveen,7687,Nederland,6.575833, 52.441306
+95,NLDMN,Diemen,1111,Nederland,4.96751, 52.345112
+96,NLDMZ,Diemen Zuid,1112,Nederland,4.955753, 52.330325
+97,NLDNE,Deurne,5753,Nederland,5.78792, 51.456097
+98,NLDNM,Deinum,9033,Nederland,5.728079, 53.188786
+99,NLDRN,Dieren,6953,Nederland,6.10221, 52.04427
+100,NLDRP,Dronryp,9035,Nederland,5.635481, 53.1779
+101,NLDSN,Dalfsen,7722,Nederland,6.259018, 52.498342
+102,NLDTC,Doetinchem,7005,Nederland,6.29448, 51.95836
+103,NLDTH,Doetinchem de Huet,7006,Nederland,6.259512, 51.959116
+104,NLDVC,Deventer Colmschate,7423,Nederland,6.215465, 52.250411
+105,NLDVD,Duivendrecht,1115,Nederland,4.936552, 52.323556
+106,NLDVK,De Vink,2253,Nederland,4.456294, 52.14717
+107,NLDVN,Duiven,6922,Nederland,6.014835, 51.943295
+108,NLDVT,Deventer,7411,Nederland,6.160505, 52.257432
+109,NLDZL,Delfzijl,9934,Nederland,6.924426, 53.334025
+110,NLDZW,Delfzijl West,9933,Nederland,6.907041, 53.331912
+111,NLECT,Echt,6101,Nederland,5.878954, 51.100709
+112,NLEDC,Ede Centrum,6711,Nederland,5.667959, 52.043344
+113,NLEDL,Enschede Kennispark,7521,Nederland,6.838993, 52.237287
+114,NLEDN,Eijsden,6245,Nederland,5.710046, 50.771964
+115,NLEDW,Ede-Wageningen,6717,Nederland,5.671555, 52.027865
+116,NLEEM,Eemshaven,9979,Nederland,6.819422, 53.461346
+117,NLEGH,Eygelshoven,6469,Nederland,6.045847, 50.889903
+118,NLEGM,Eygelshoven Markt,6471,Nederland,6.057569, 50.896033
+119,NLEHB,Eindhoven Strijp-S,5617,Nederland,5.457054, 51.450362
+120,NLEHV,Eindhoven,5611,Nederland,5.479572, 51.443018
+121,NLEHZ,Enkhuizen,1601,Nederland,5.28803, 52.699512
+122,NLELT,Elst,6662,Nederland,5.855024, 51.91719
+123,NLEML,Ermelo,3851,Nederland,5.614482, 52.301254
+124,NLEMN,Emmen,7822,Nederland,6.899688, 52.790114
+125,NLESD,Enschede,7511,Nederland,6.890222, 52.222562
+126,NLESE,Enschede De Eschmarke,7532,Nederland,6.951097, 52.221133
+127,NLETL,Etten-Leur,4872,Nederland,4.636474, 51.575195
+128,NLFNK,Franeker,8801,Nederland,5.549958, 53.182332
+129,NLGAD,Gaanderen,7011,Nederland,6.348155, 51.931024
+130,NLGBG,Gramsbergen,7783,Nederland,6.676054, 52.609413
+131,NLGDA,Gouda,2809,Nederland,4.706131, 52.017348
+132,NLGDG,Gouda Goverwelle,2807,Nederland,4.741558, 52.014966
+133,NLGDK,Geerdijk,7686,Nederland,6.566754, 52.476292
+134,NLGDM,Geldermalsen,4191,Nederland,5.271454, 51.882339
+135,NLGDP,Geldrop,5662,Nederland,5.550488, 51.419997
+136,NLGJS,Grou-Jirnsum,9001,Nederland,5.822735, 53.088736
+137,NLGKK,Grijpskerk,9843,Nederland,6.3104, 53.25581
+138,NLGLB,Glanerbrug,7532,Nederland,6.973885, 52.218571
+139,NLGLL,Geleen-Lutterade,6162,Nederland,5.824956, 50.975534
+140,NLGLO,Geleen Oost,6166,Nederland,5.843285, 50.967399
+141,NLGNE,Groningen Europapark,9723,Nederland,6.583375, 53.205847
+142,NLGNG,Groningen,9726,Nederland,6.564273, 53.210684
+143,NLGNN,Groningen Noord,9741,Nederland,6.55612, 53.229894
+144,NLGOR,Goor,7471,Nederland,6.584634, 52.23032
+145,NLGOS,Goes,4461,Nederland,3.89027, 51.498302
+146,NLGRC,Gorinchem,4205,Nederland,4.967304, 51.83377
+147,NLGZR,Gilze-Rijen,5121,Nederland,4.925306, 51.583843
+148,NLHBK,Hoensbroek,6433,Nederland,5.930084, 50.905634
+149,NLHBR,Helmond Brandevoort,5706,Nederland,5.608972, 51.462498
+150,NLHDB,Hardenberg,7772,Nederland,6.628151, 52.572441
+151,NLHDD,Hemmen-Dodewaard,6669,Nederland,5.673586, 51.922278
+152,NLHDE,'t Harde,8084,Nederland,5.892941, 52.409107
+153,NLHDG,Hurdegaryp,9254,Nederland,5.934822, 53.218999
+154,NLHDL,Hindeloopen,8713,Nederland,5.423093, 52.946374
+155,NLHDP,Hoofddorp,2132,Nederland,4.699974, 52.293128
+156,NLHDV,Hardinxveld-Giessendam,3371,Nederland,4.835324, 51.830426
+157,NLHDW,Harderwijk,3844,Nederland,5.619687, 52.337588
+158,NLHGL,Hengelo,7551,Nederland,6.793723, 52.261854
+159,NLHGM,Hillegom,2182,Nederland,4.566151, 52.303097
+160,NLHGO,Hengelo Oost,7557,Nederland,6.81972, 52.268965
+161,NLHGS,Hoogezand-Sappemeer,9601,Nederland,6.771259, 53.159796
+162,NLHGV,Hoogeveen,7901,Nederland,6.472754, 52.733653
+163,NLHHG,Heerhugowaard,1704,Nederland,4.82353, 52.670288
+164,NLHKK,Heemskerk,1966,Nederland,4.686301, 52.494828
+165,NLHKS,Hoogkarspel,1616,Nederland,5.183135, 52.690442
+166,NLHLG,Harlingen,8862,Nederland,5.425142, 53.170448
+167,NLHLH,Harlingen Haven,8862,Nederland,5.411326, 53.174889
+168,NLHLM,Haarlem,2011,Nederland,4.638604, 52.387973
+169,NLHLN,Heerlen,6411,Nederland,5.975839, 50.890694
+170,NLHLO,Heiloo,1852,Nederland,4.701034, 52.600037
+171,NLHLR,Hollandsche Rading,3739,Nederland,5.173759, 52.175989
+172,NLHLS,Haarlem Spaarnwoude,2031,Nederland,4.672862, 52.383065
+173,NLHLT,Holten,7451,Nederland,6.420599, 52.28395
+174,NLHLW,Heerlen Woonboulevard,6412,Nederland,5.952225, 50.896015
+175,NLHMB,Helmond Brouwhuis,5704,Nederland,5.702828, 51.470381
+176,NLHMD,Helmond,5705,Nederland,5.661927, 51.475478
+177,NLHMH,Helmond 't Hout,5707,Nederland,5.63131, 51.468035
+178,NLHNO,Heino,8141,Nederland,6.221632, 52.427382
+179,NLHOK,Hoorn Kersenboogerd,1628,Nederland,5.085215, 52.653478
+180,NLHON,Hoorn,1621,Nederland,5.054589, 52.644984
+181,NLHRN,Haren (NL),Gron,Nederland,6.618326, 53.174988
+182,NLHRV,Heerenveen,8441,Nederland,5.915153, 52.960936
+183,NLHSA,Heemstede-Aerdenhout,2106,Nederland,4.606683, 52.359423
+184,NLHSP,Hilversum Sportpark,1213,Nederland,5.187207, 52.216657
+185,NLHSV,Horst-Sevenum,5975,Nederland,6.043115, 51.426046
+186,NLHTC,Houten Castellum,3995,Nederland,5.17944, 52.016997
+187,NLHTG,'s-Hertogenbosch,Noor,Nederland,5.29372, 51.690545
+188,NLHTN,Houten,3995,Nederland,5.167817, 52.034517
+189,NLHTO,'s-Hertogenbosch Oost,5212,Nederland,5.317389, 51.700559
+190,NLHTS,Houthem-St. Gerlach,6301,Nederland,5.796702, 50.873434
+191,NLHVN,Hilversum Media Park,1217,Nederland,5.173966, 52.237826
+192,NLHVS,Hilversum,1221,Nederland,5.1814, 52.22667
+193,NLHZE,Heeze,5591,Nederland,5.56959, 51.385091
+194,NLIJT,IJlst,8651,Nederland,5.615902, 53.014692
+195,NLKBD,Krabbendijke,4413,Nederland,4.116951, 51.433399
+196,NLKBW,Koog aan de Zaan,1541,Nederland,4.805516, 52.458601
+197,NLKDM,Koudum-Molkwerum,8722,Nederland,5.410832, 52.902489
+198,NLKMA,Krommenie-Assendelft,1567,Nederland,4.755347, 52.494873
+199,NLKMR,Klimmen-Ransdaal,6343,Nederland,5.890226, 50.866351
+200,NLKNY,Kruiningen-Yerseke,Zeel,Nederland,4.036273, 51.465509
+201,NLKPB,Kapelle-Biezelinge,4421,Nederland,3.956422, 51.480548
+202,NLKPN,Kampen,8271,Nederland,5.922093, 52.559514
+203,NLKRB,Klarenbeek,7382,Nederland,6.0846, 52.178003
+204,NLKRC,Kerkrade Centrum,6461,Nederland,6.05712, 50.861344
+205,NLKTR,Kesteren,4041,Nederland,5.583388, 51.931519
+206,NLKWD,Kropswolde,9606,Nederland,6.72269, 53.161603
+207,NLKZD,Zaandijk Zaanse Schans,1541,Nederland,4.805048, 52.469208
+208,NLLCM,Lochem,7241,Nederland,6.426433, 52.166865
+209,NLLDC,Leiden Centraal,2312,Nederland,4.481967, 52.166263
+210,NLLDL,Leiden Lammensch,2321,Nederland,4.492736, 52.146693
+211,NLLDM,Leerdam,4141,Nederland,5.092649, 51.894618
+212,NLLGF,Landgraaf,6372,Nederland,6.01986, 50.896528
+213,NLLGZ,Lage Zwaluwe,4765,Nederland,4.66345, 51.69023
+214,NLLLC,Lelystad Centrum,8232,Nederland,5.472812, 52.507853
+215,NLLLZ,Lansingerland-Zoetermeer,2665,Nederland,4.52752, 52.045827
+216,NLLPS,Loppersum,9919,Nederland,6.747375, 53.334753
+217,NLLTG,Lichtenvoorde-Groenlo,7137,Nederland,6.596446, 52.011972
+218,NLLTR,Lunteren,6741,Nederland,5.624271, 52.085018
+219,NLLWC,Leeuwarden Camminghaburen,8938,Nederland,5.842547, 53.202126
+220,NLLWD,Leeuwarden,8911,Nederland,5.791686, 53.19622
+221,NLMAN,Maarn,3951,Nederland,5.370092, 52.064164
+222,NLMAS,Maarssen,3605,Nederland,5.033222, 52.135745
+223,NLMDB,Middelburg,4337,Nederland,3.617079, 51.494832
+224,NLMES,Meerssen,6231,Nederland,5.750408, 50.882576
+225,NLMGM,Mantgum,9022,Nederland,5.713534, 53.130266
+226,NLMHZ,Maarheeze,6026,Nederland,5.630618, 51.303802
+227,NLMMH,Mook-Molenhoek,6584,Nederland,5.878756, 51.766144
+228,NLMPL,Meppel,7941,Nederland,6.197882, 52.691907
+229,NLMRB,Marienberg,7692,Nederland,6.574989, 52.509273
+230,NLMTH,Martenshoek,9601,Nederland,6.740408, 53.160856
+231,NLMTN,Maastricht Noord,6222,Nederland,5.718541, 50.871457
+232,NLMTR,Maastricht Randwyck,6227,Nederland,5.717606, 50.837918
+233,NLMTT,Maastricht,6221,Nederland,5.705875, 50.849811
+234,NLNAS,Nieuw Amsterdam,7833,Nederland,6.848971, 52.719297
+235,NLNDB,Naarden-Bussum,1404,Nederland,5.157363, 52.280884
+236,NLNKK,Nijkerk,3862,Nederland,5.49355, 52.222041
+237,NLNMD,Nijmegen Dukenburg,6538,Nederland,5.795372, 51.824071
+238,NLNMG,Nijmegen,6512,Nederland,5.852319, 51.843487
+239,NLNMH,Nijmegen Heyendaal,6525,Nederland,5.867933, 51.826731
+240,NLNML,Nijmegen Lent,6663,Nederland,5.859402, 51.864828
+241,NLNST,Nunspeet,8071,Nederland,5.784145, 52.370768
+242,NLNUH,Nuth,6361,Nederland,5.892411, 50.920043
+243,NLNVD,Nijverdal,7443,Nederland,6.470561, 52.365725
+244,NLNVN,Nieuw Vennep,2153,Nederland,4.645607, 52.258978
+245,NLNWK,Nieuwerkerk a/d IJssel,2911,Nederland,4.616913, 51.965363
+246,NLNWS,Bad Nieuweschans,9693,Nederland,7.200233, 53.18466
+247,NLODB,Oudenbosch,4731,Nederland,4.533349, 51.58778
+248,NLODM,Obdam,1713,Nederland,4.907606, 52.678037
+249,NLODZ,Oldenzaal,7573,Nederland,6.933137, 52.306279
+250,NLOHD,Opheusden,4043,Nederland,5.637468, 51.926044
+251,NLOLT,Olst,8121,Nederland,6.113303, 52.335269
+252,NLOMN,Ommen,7731,Nederland,6.416697, 52.509633
+253,NLOSS,Oss,5348,Nederland,5.530361, 51.765029
+254,NLOSW,Oss West,5345,Nederland,5.506737, 51.758377
+255,NLOTB,Oosterbeek,6861,Nederland,5.840075, 51.994866
+256,NLOTW,Oisterwijk,5061,Nederland,5.19483, 51.582387
+257,NLOVV,Overveen,2051,Nederland,4.607789, 52.390993
+258,NLPME,Purmerend,1441,Nederland,4.954296, 52.503718
+259,NLPMO,Purmerend Overwhere,1443,Nederland,4.967403, 52.511323
+260,NLPMW,Purmerend Weidevenne,1448,Nederland,4.935005, 52.496284
+261,NLPTN,Putten,3882,Nederland,5.575334, 52.265171
+262,NLRAI,Amsterdam RAI,1078,Nederland,4.890725, 52.336689
+263,NLRAL,Rotterdam Alexander,3068,Nederland,4.553521, 51.951735
+264,NLRBL,Rotterdam Blaak,Zuid,Nederland,4.489015, 51.919986
+265,NLRDN,Rheden,6991,Nederland,6.033092, 52.010615
+266,NLRDS,Roodeschool,9983,Nederland,6.759618, 53.418775
+267,NLRLB,Rilland-Bath,4411,Nederland,4.160836, 51.422648
+268,NLRLD,Rotterdam Lombardijen,3076,Nederland,4.53077, 51.88037
+269,NLRLO,Ruurlo,7261,Nederland,6.450803, 52.080542
+270,NLRMD,Roermond,6043,Nederland,5.99451, 51.192848
+271,NLRML,Rosmalen,5241,Nederland,5.369373, 51.715067
+272,NLRNN,Rhenen,3911,Nederland,5.578319, 51.95801
+273,NLRNO,Rotterdam Noord,3051,Nederland,4.481581, 51.942279
+274,NLRSD,Roosendaal,4702,Nederland,4.458469, 51.540299
+275,NLRSN,Rijssen,7461,Nederland,6.519687, 52.311978
+276,NLRSW,Rijswijk,2283,Nederland,4.319784, 52.039344
+277,NLRTC,Rotterdam Centraal,3013,Nederland,4.468771, 51.924804
+278,NLRTE,Raalte,8102,Nederland,6.278416, 52.391308
+279,NLRVR,Reuver,5953,Nederland,6.079404, 51.283019
+280,NLRVS,Ravenstein,5352,Nederland,5.636461, 51.794424
+281,NLRZU,Rotterdam Zuid,3071,Nederland,4.510031, 51.904866
+282,NLSBH,Sliedrecht Baanhoek,3363,Nederland,4.743275, 51.829626
+283,NLSBK,Spaubeek,6176,Nederland,5.850314, 50.943334
+284,NLSDA,Scheemda,9679,Nederland,6.97784, 53.165405
+285,NLSDC,Schiedam Centrum,3112,Nederland,4.409802, 51.921945
+286,NLSDK,Soestdijk,3761,Nederland,5.299986, 52.183522
+287,NLSDM,Stedum,9921,Nederland,6.687291, 53.326294
+288,NLSDT,Sliedrecht,3364,Nederland,4.778135, 51.829725
+289,NLSGN,Schagen,1741,Nederland,4.805381, 52.784748
+290,NLSHL,Schiphol Airport,1118,Nederland,4.761487, 52.308787
+291,NLSMN,Swalmen,6071,Nederland,6.03213, 51.235601
+292,NLSNK,Sneek,8601,Nederland,5.651428, 53.032473
+293,NLSNN,Schinnen,6365,Nederland,5.874639, 50.939056
+294,NLSNO,Sneek Noord,8603,Nederland,5.662808, 53.040239
+295,NLSOG,Schin op Geul,6305,Nederland,5.871933, 50.856256
+296,NLSOT,Soest,3764,Nederland,5.310125, 52.172816
+297,NLSOZ,Soest Zuid,3765,Nederland,5.303015, 52.165364
+298,NLSPN,Santpoort Noord,2071,Nederland,4.63242, 52.433647
+299,NLSPO,Sappemeer Oost,9611,Nederland,6.794577, 53.158996
+300,NLSPZ,Santpoort Zuid,2082,Nederland,4.631269, 52.419714
+301,NLSSH,Sassenheim,2171,Nederland,4.515731, 52.214751
+302,NLSTD,Sittard,6131,Nederland,5.858512, 51.001603
+303,NLSTR,Susteren,Limb,Nederland,5.862827, 51.06077
+304,NLSVR,Stavoren,8715,Nederland,5.360087, 52.886694
+305,NLSWD,Sauwerd,9771,Nederland,6.540407, 53.291578
+306,NLSWK,Steenwijk,8331,Nederland,6.116395, 52.791157
+307,NLTBG,Tilburg,5038,Nederland,5.083786, 51.560606
+308,NLTBO,Terborg,7061,Nederland,6.364614, 51.922449
+309,NLTBW,Tilburg Universiteit,5042,Nederland,5.051389, 51.565064
+310,NLTGL,Tegelen,5932,Nederland,6.14356, 51.339363
+311,NLTIL,Tiel,4001,Nederland,5.423039, 51.889782
+312,NLTIP,Tiel Passewaaij,4006,Nederland,5.39217, 51.873934
+313,NLTRH,Tilburg Reeshof,5036,Nederland,4.994325, 51.573604
+314,NLTWE,Twello,7391,Nederland,6.100709, 52.238455
+315,NLUGT,Uitgeest,1911,Nederland,4.703138, 52.521184
+316,NLUHM,Uithuizermeeden,9982,Nederland,6.720263, 53.413894
+317,NLUHZ,Uithuizen,9981,Nederland,6.674301, 53.409687
+318,NLUQT,Usquert,9988,Nederland,6.608968, 53.40103
+319,NLUTC,Utrecht Centraal,3511,Nederland,5.109864, 52.089396
+320,NLUTL,Utrecht Lunetten,Utre,Nederland,5.143951, 52.065764
+321,NLUTO,Utrecht Overvecht,3571,Nederland,5.125559, 52.110044
+322,NLUTT,Utrecht Terwijde,3543,Nederland,5.04106, 52.100588
+323,NLUTZ,Utrecht Zuilen,3551,Nederland,5.089395, 52.103285
+324,NLUVR,Utrecht Vaartsche Rijn,3521,Nederland,5.121676, 52.078888
+325,NLVBU,Voorburg,2271,Nederland,4.358896, 52.066725
+326,NLVDM,Veendam,9641,Nederland,6.886959, 53.105447
+327,NLVDN,Vorden,7251,Nederland,6.318409, 52.107123
+328,NLVEP,Velp,6883,Nederland,5.980325, 51.994749
+329,NLVHP,Vroomshoop,7681,Nederland,6.569676, 52.457424
+330,NLVHT,Voorhout,2215,Nederland,4.484277, 52.224702
+331,NLVKB,Valkenburg,6301,Nederland,5.832758, 50.869452
+332,NLVLB,Vierlingsbeek,5821,Nederland,5.997351, 51.592041
+333,NLVLO,Venlo,5913,Nederland,6.17184, 51.364407
+334,NLVNC,Veenendaal Centrum,3901,Nederland,5.549158, 52.019757
+335,NLVNK,Veenendaal-de Klomp,6745,Nederland,5.57448, 52.045691
+336,NLVNW,Veenendaal West,3906,Nederland,5.531395, 52.028189
+337,NLVOM,Voorst-Empe,7399,Nederland,6.143587, 52.157633
+338,NLVRD,Voerendaal,6367,Nederland,5.929428, 50.886819
+339,NLVRY,Venray,5807,Nederland,6.014556, 51.526438
+340,NLVSG,Vlissingen,4382,Nederland,3.595541, 51.444411
+341,NLVSS,Vlissingen Souburg,4388,Nederland,3.59493, 51.464439
+342,NLVST,Voorschoten,2252,Nederland,4.43303, 52.125722
+343,NLVSV,Varsseveld,7051,Nederland,6.458291, 51.937191
+344,NLVTN,Vleuten,3451,Nederland,5.007477, 52.103159
+345,NLVUT,Vught,5262,Nederland,5.29194, 51.655631
+346,NLVWD,Feanwalden,9269,Nederland,5.990321, 53.235215
+347,NLVZV,Vriezenveen,7671,Nederland,6.600401, 52.402032
+348,NLWCN,Wijchen,6602,Nederland,5.730344, 51.811486
+349,NLWDN,Woerden,3446,Nederland,4.893511, 52.085153
+350,NLWDT,Waddinxveen Triangel,2771,Nederland,4.648181, 52.082227
+351,NLWDV,Waddinxveen,2741,Nederland,4.649832, 52.044252
+352,NLWEL,Wehl,7031,Nederland,6.213326, 51.957156
+353,NLWEP,Weesp,1382,Nederland,5.043532, 52.312392
+354,NLWET,Weert,6001,Nederland,5.704914, 51.248797
+355,NLWFM,Warffum,9989,Nederland,6.566817, 53.390117
+356,NLWHE,Wijhe,8131,Nederland,6.140387, 52.390346
+357,NLWHZ,Wolfheze,6874,Nederland,5.793358, 52.005383
+358,NLWID,Wierden,7641,Nederland,6.591933, 52.361437
+359,NLWKM,Workum,8711,Nederland,5.456218, 52.971759
+360,NLWMV,Wormerveer,1521,Nederland,4.793093, 52.489048
+361,NLWSM,Winsum,9951,Nederland,6.520334, 53.330078
+362,NLWST,Winschoten,9671,Nederland,7.034886, 53.139237
+363,NLWTV,Westervoort,6931,Nederland,5.969277, 51.963044
+364,NLWTW,Winterswijk,7101,Nederland,6.7154, 51.967655
+365,NLWVG,Wolvega,8471,Nederland,6.004452, 52.88033
+366,NLWVN,Waddinxveen Noord,2742,Nederland,4.648429, 52.055048
+367,NLWWW,Winterswijk West,7102,Nederland,6.704505, 51.974406
+368,NLWZP,Wezep,8091,Nederland,6.002582, 52.454062
+369,NLZBK,Zuidbroek,9636,Nederland,6.866868, 53.159328
+370,NLZBM,Zaltbommel,5301,Nederland,5.263274, 51.807827
+371,NLZDK,Zaandam Kogerveld,1508,Nederland,4.819413, 52.456875
+372,NLZDM,Zaandam,1506,Nederland,4.813705, 52.437998
+373,NLZDT,Zwijndrecht (NL),3331,Nederland,4.641238, 51.815162
+374,NLZHN,Zuidhorn,9801,Nederland,6.40663, 53.248151
+375,NLZLE,Zwolle,8011,Nederland,6.089904, 52.505624
+376,NLZPN,Zutphen,7201,Nederland,6.194143, 52.144833
+377,NLZTA,Zetten-Andelst,6671,Nederland,5.720851, 51.919761
+378,NLZTM,Zoetermeer,2719,Nederland,4.47678, 52.04801
+379,NLZTO,Zoetermeer Oost,2718,Nederland,4.492745, 52.046347
+380,NLZVB,Zevenbergen,4761,Nederland,4.609686, 51.640951
+381,NLZVN,Zevenaar,6905,Nederland,6.072662, 51.922853
+382,NLZVZ,Zandvoort aan Zee,2041,Nederland,4.53281, 52.375406
+383,NLZWE,De Westereen,9271,Nederland,6.035609, 53.248304
